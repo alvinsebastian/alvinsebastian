@@ -1,6 +1,6 @@
 # Hi, I'm Alvin Sebastian
 
-**Web Developer · WordPress · PHP · JavaScript · React**
+**Full Stack Web Developer · WordPress · PHP · JavaScript · React**
 
 15+ years of experience building high-performance websites, custom web solutions, and digital experiences for agencies and businesses worldwide.
 
