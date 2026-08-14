@@ -4,7 +4,10 @@
 
 15+ years of experience building high-performance websites, custom web solutions, and digital experiences for agencies and businesses worldwide.
 
-My primary expertise is WordPress development, with a strong focus on performance, maintainability, custom functionality, and clean implementation.
+I've worked primarily with **online marketing agencies in the USA, Australia, Finland, and the Netherlands**, collaborating on websites and digital projects across different industries and markets.
+
+My primary expertise is WordPress development, with a strong focus on performance, maintainability, custom functionality, clean implementation, and delivering solutions aligned with business and marketing goals.
+
 
 ---
 
