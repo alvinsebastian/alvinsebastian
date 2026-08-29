@@ -94,7 +94,7 @@ My primary expertise is WordPress development, with a strong focus on performanc
 
 ### Find me
 
-[Portfolio](https://alvinsebastian.dev) · [LinkedIn](https://www.linkedin.com/in/alvinsebastian) · [GitHub](https://github.com/alvinsebastian)
+[Portfolio](https://alvinsebastian.dev) · [LinkedIn](https://www.linkedin.com/in/alvinsebastian01) · [GitHub](https://github.com/alvinsebastian)
 
 ---
 
